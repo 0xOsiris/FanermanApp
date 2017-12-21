@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "602149049734",
+    "firebase_url": "https://fanerman-7c118.firebaseio.com",
+    "project_id": "fanerman-7c118",
+    "storage_bucket": "fanerman-7c118.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602149049734:android:2778f9a4ce96fb1a",
+        "android_client_info": {
+          "package_name": "com.roguestudios.fanermanapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602149049734-9eujoirfct6j3oi2uq2k9gane22gudm1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVOI88unQiHH0wVombG9_wP5IowxCLRDw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

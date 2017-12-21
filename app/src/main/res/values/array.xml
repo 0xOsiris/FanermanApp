@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="soundEntries">
+        <item>StandardFan</item>
+        <item>AlternateFan</item>
+        <item>WhiteNoise</item>
+    </string-array>
+
+
+    <string-array name="soundValues">
+        <item>Standard</item>
+        <item>Alternate</item>
+        <item>White</item>
+    </string-array>
+</resources>

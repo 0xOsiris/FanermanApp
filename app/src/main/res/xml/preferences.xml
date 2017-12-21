@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+        android:title="Sound Settings">
+        <ListPreference
+            android:entries="@array/soundEntries"
+
+            android:entryValues="@array/soundValues"
+            android:key="soundPref"
+            android:title="Sound Settings"/>
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title ="Rogue Electronic Studios"
+        >
+        <Preference
+            android:title="Twitter"
+            android:icon="@drawable/twitter"
+            >
+
+            <intent
+
+                android:action="android.intent.action.VIEW"
+                android:data="https://twitter.com/RogueElecStudio"
+                />
+
+        </Preference>
+
+
+        <Preference
+            android:title="Facebook"
+            android:icon="@drawable/facebook">
+
+            <intent
+
+                android:action="android.intent.action.VIEW"
+                android:data="https://www.facebook.com/Rogue-Electronic-Studios-LLC-716210268479456/?fref=ts"
+                />
+
+        </Preference>
+
+        <Preference
+            android:title="Remove Ads"
+            android:icon="@drawable/removeads"
+            >
+
+            <intent
+
+                android:action="android.intent.action.VIEW"
+                android:data="https://play.google.com/store/apps/details?id=com.roguestudios.fanermanAdFree&amp;hl=en"
+                />
+
+        </Preference>
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

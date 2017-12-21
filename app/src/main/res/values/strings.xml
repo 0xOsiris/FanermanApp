@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FanermanApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_sleep_timer">SleepTimer</string>
+    <string name="banner_ad_unit_id">ca-app-pub-5005569223959807/5990019173</string>
+    <string name="title_activity_splash">Fanerman Sleep Aid</string>
+    <string name="title_activity_main22">Main22Activity</string>
+    <string name="saveButton">SaveButton</string>
+</resources>
