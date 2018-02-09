@@ -13,9 +13,7 @@ import android.widget.TextView;
 
 
 
-/**
- * Created by Leyton on 12/21/15.
- */
+
 public class AppRater {
     private final static String APP_TITLE = "Fanerman Sleep Aid";// App Name
     private final static String APP_PNAME = "com.roguestudios.fanermanapp";// Package Name
