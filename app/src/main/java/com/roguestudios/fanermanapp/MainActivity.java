@@ -31,6 +31,9 @@ import java.util.concurrent.TimeUnit;
 
 import static com.rouguestudios.fanermanapp.R.raw.alternate_fan;
 
+/**
+ * Created by Leyton on 10/27/2015.
+ */
 
 public class MainActivity extends AppCompatActivity {
 
