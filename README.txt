@@ -6,3 +6,5 @@ The purpose of the app and its functionality
 Could be used to treat insomnia.
 
 Thank You
+
+This Application was programmed by Leyton Taylor.
